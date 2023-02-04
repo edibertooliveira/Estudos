@@ -1,0 +1,12 @@
+comando para inciar o Git
+git init 
+
+comando para add arquivo
+git add .  / git add <nome do arquivo para um arquivo só>
+
+para comentar a modificação
+git commit -m "comentario para modificação"
+
+enviar o arquivo para o repositorio
+git push origen <nome da brench>
+
