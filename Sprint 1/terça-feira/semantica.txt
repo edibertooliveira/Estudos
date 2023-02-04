@@ -1,0 +1,8 @@
+Article - valor semantico em artigo.
+Aside - barra lateral.
+Section - valor semantico seção, tópicos.
+Nav - Tag de navegação.
+Figure - figuração/imagines
+Footer - Rodapé, informações abaixo dos menus.
+Header - pParte inicial do seu documento (armanezar menu da navegação)
+Main - Conteudo princial da sua passagem usada apenas uma vez.
