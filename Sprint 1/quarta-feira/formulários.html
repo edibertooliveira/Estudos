@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inputs</title>
+</head>
+
+<body>
+    <form>
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" name="nome" placeholder="Digete seu nome aqui.." required="true" />
+
+        <label for="senha">senha</label>
+        <input type="password" id="senha" name="senha" placeholder="digite novamente sua senha" required="true" />
+
+        <button type="submit">Cadastrar</button>
+    </form>
+
+
+    <form>
+        <p>Qual o medio de contato</p>
+
+        <label for="email">Email</label>
+        <input type="radio" name="metodoDeContato" value="email">
+
+        <label for="telefone">Telefone</label>
+        <input type="radio" name="metodoDeContato" value="telefone">
+
+        <label for="whastapp">Whastapp</label>
+        <input type="radio" name="metodoDeContato" value="whastapp">
+
+        <button type="submit">Enviar</button>
+    </form>
+
+    <form>
+        <label for="plano">Plano</label>
+        <select name="plano" required="true" id="plano">
+            <option value="">
+                Escolher Plano
+            </option>
+            <option value="Free">
+                Free
+            </option>
+            <option value="Premium">
+                Premium
+            </option>
+            <option value="Pro">
+                Pro
+            </option>
+
+
+
+        </select>
+        <button type="submit">Cadastrar</button>
+    </form>
+   
+   
+    <form>
+        <!--Cols = colunas-->
+        <!--Rows: Linhas-->
+        <label for="mensagem">mensagem"</label>
+    <textarea id="mensagem" placeholder="Digete sua mensagem" cols="60" rows="20"></textarea>
+
+    
+    </form>
+
+</body>
+
+
+
+</html>
