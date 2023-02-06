@@ -1,0 +1,27 @@
+h1 {
+    font-size: 60px;
+    color: plum;
+}
+
+
+p {
+    font-size: 36px;
+
+}
+
+.box-blue {
+    background-color: blue;
+}
+
+.box-pink {
+    background-color: pink;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+}
+
+#sessao-unica {
+    font-size: 56px;
+}

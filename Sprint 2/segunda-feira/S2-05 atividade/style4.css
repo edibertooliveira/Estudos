@@ -1,0 +1,18 @@
+.title-1 {
+    font-size: 42px;
+    color: pink;
+    width: 429px;
+    font-family: 'Inter', sans-serif;
+}
+
+.paragraph-1 {
+    font-size: 20px;
+    color: black;
+    line-height: 28px;
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    width: 429px;
+
+}
